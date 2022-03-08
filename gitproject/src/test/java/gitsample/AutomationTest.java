@@ -8,6 +8,7 @@ public void selenium() {
 	System.out.println("this is selenium");
 	System.out.println("this is selenium1");
 	System.out.println("this is selenium2");
+	System.out.println("this is selenium3");
 }
 @Test
 public void appium() {
